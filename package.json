@@ -1,0 +1,22 @@
+{
+  "name": "anamika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.crio.do/COHORT_ME_BUILDOUT_XHARKTANK_ENROLL_1668411037975/anamika08saini08-ME_BUILDOUT_XHARKTANK.git"
+  },
+  "author": "anamika saini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.12.0",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
